@@ -17,9 +17,11 @@ Mi objetivo con este proyecto es centrarme en el aprendizaje y el desarrollo con
         se crea la inyeccion de dependecia para la comunicacion con el WebApi.
     - 📂 En WebApi
         se crean clases encargadas de recibir peticiones de los clientes.
-        
+
 ---
 <img src="./Img/Relaciones.png" alt="Relaciones" style="width: 3000px;">
+
+---
 
 # Terminal 🔓
 ```Terminal
@@ -82,8 +84,10 @@ Referencias 🔗
 
 
 ```
-
+---
 <img src="https://1.bp.blogspot.com/-epbYlUPl2-c/Xh6loHanlbI/AAAAAAAACpI/Ift8Ukv9AbQVIHl2aKTLMjr-LA25WN8lwCLcBGAsYHQ/s1600/ASP.NET%2BCore.jpg" alt="https://1.bp.blogspot.com/-epbYlUPl2-c/Xh6loHanlbI/AAAAAAAACpI/Ift8Ukv9AbQVIHl2aKTLMjr-LA25WN8lwCLcBGAsYHQ/s1600/ASP.NET%2BCore.jpg" style="width: 3000px;">
+
+---
 
 
 # Gestion de Datos 🧑‍💻
