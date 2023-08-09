@@ -17,6 +17,9 @@ Mi objetivo con este proyecto es centrarme en el aprendizaje y el desarrollo con
         se crea la inyeccion de dependecia para la comunicacion con el WebApi.
     - 📂 En WebApi
         se crean clases encargadas de recibir peticiones de los clientes.
+        
+---
+<img src="./Img/Relaciones.png" alt="Relaciones" style="width: 3000px;">
 
 # Terminal 🔓
 ```Terminal
@@ -85,7 +88,7 @@ Referencias 🔗
 
 # Gestion de Datos 🧑‍💻
 
- - ## Instalaciones 🔧
+ - ## Instalacion de Paquetes 🔧
      - Dominio 📂
         - dotnet add package Microsoft.EntityFrameworkCore --version 7.0.9
         - dotnet add package MediatR.Extensions.Microsoft.DependencyInjection --version 11.1.0
