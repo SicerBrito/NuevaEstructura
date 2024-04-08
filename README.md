@@ -19,7 +19,7 @@ Mi objetivo con este proyecto es centrarme en el aprendizaje y el desarrollo con
         se crean clases encargadas de recibir peticiones de los clientes.
 
 ---
-<img src="./Img/Relaciones.png" alt="Relaciones" style="width: 3000px;">
+<img src="./Img/Relaciones.PNG" alt="Relaciones" style="width: 3000px;">
 
 ---
 
